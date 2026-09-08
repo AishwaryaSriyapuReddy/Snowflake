@@ -1,1 +1,1 @@
-# Snowflake-Cricket-Analytics
+# Snowflake
